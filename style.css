@@ -186,7 +186,6 @@ font-weight:bold;
 /*PRODUCT PAGE*/
 .products-home{
 min-height:100vh;
-background:url('Morning.jpeg') no-repeat center;
 background-size:cover;
 display:flex;
 justify-content:center;   
@@ -284,7 +283,6 @@ grid-template-columns:1fr;
 
 .about-home{
 min-height:100vh;
-background:url('Morning.jpeg') no-repeat center/cover;
 display:flex;
 justify-content:center;
 align-items:center;
@@ -391,7 +389,6 @@ grid-template-columns:1fr;
 
 .contact-home{
 min-height:100vh;
-background:url('Morning.jpeg') no-repeat center/cover;
 display:flex;
 justify-content:center;
 align-items:center;
