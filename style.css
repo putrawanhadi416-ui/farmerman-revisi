@@ -48,7 +48,7 @@ font-weight:bold;
 /*HOME PAGE STYLE*/
 .home{
     height: 100vh;
-    background: url('asset/Morning.jpeg') no-repeat;
+    background: url('Morning.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     align-items: center;
